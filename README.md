@@ -56,7 +56,7 @@ necessary classes and methods.
 ● Python 3.0 or higher
 
 # Project Structure
-src/
+Banking System/
 
 │ -- entities/          # contains the entities of the project
 
